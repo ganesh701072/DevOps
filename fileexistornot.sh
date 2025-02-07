@@ -7,3 +7,5 @@ if [ -f "$FILE"]; then
 else
 	echo "$FILE doesn't exists"
 fi
+
+done
